@@ -265,11 +265,11 @@ show_menu() {
 | ${SCRIPT_DATE} Write By ${AUTHOR} ${SCRIPT_VERSION}
 | Blog http://my-fish-it.blogspot.com
 +----------------------------------------------------------------------
-| Install Agent Gemini Cli   1
+| Install Agent Gemini Cli   1 (Node.js v20)
 +----------------------------------------------------------------------
-| Install Agent Copilot Cli  2
+| Install Agent Copilot Cli  2 (Node.js v22)
 +----------------------------------------------------------------------
-| Install Agent Codex Cli    3
+| Install Agent Codex Cli    3 (Node.js v20)
 +----------------------------------------------------------------------
 | Disable SELinux            4
 +----------------------------------------------------------------------
