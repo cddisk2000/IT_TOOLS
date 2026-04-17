@@ -4,8 +4,8 @@ set -euo pipefail
 #========================
 # iStoreOS Image URLs
 #========================
-IMAGE_URL_EFI="https://fw0.koolcenter.com/iStoreOS/x86_64_efi/istoreos-24.10.5-2025123110-x86-64-squashfs-combined-efi.img.gz"
-IMAGE_URL_BIOS="https://fw.d4ctech.com/iStoreOS/x86_64/istoreos-24.10.5-2025123110-x86-64-squashfs-combined.img.gz"
+IMAGE_URL_EFI="https://fw0.koolcenter.com/iStoreOS/x86_64_efi/istoreos-24.10.5-2026041010-x86-64-squashfs-combined-efi.img.gz"
+IMAGE_URL_BIOS="https://fw0.koolcenter.com/iStoreOS/x86_64/istoreos-24.10.5-2026041010-x86-64-squashfs-combined.img.gz"
 
 IMAGE_URL=""
 IMAGE_FILE=""
